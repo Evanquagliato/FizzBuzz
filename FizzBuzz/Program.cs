@@ -31,6 +31,9 @@ namespace FizzBuzz
 				}
 				Console.WriteLine(output);
 			}
+
+			// In this solution I wanted to minimize the "writelines" by creating a variable for this
+			// so if we added in more cases of output (divisible by 7) we could continue adding easily
 		}
 	}
 }
