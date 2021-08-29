@@ -14,7 +14,6 @@ namespace FizzBuzz
 
 			int endNumber = 50;
 
-
 			for (int i = 1; i <= endNumber; i++)
 			{
 				string output = "";
